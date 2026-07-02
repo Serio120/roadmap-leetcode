@@ -2,4 +2,4 @@
 
 Given an array and a number k, return the k most frequent elements. You could sort by frequency, but the optimal approach uses bucket sort. Since no element can appear more times than the length of the array, you can create buckets indexed by frequency and scan from the top. This problem bridges hash maps and sorting, and introduces the idea that the constraints of a problem often suggest a faster algorithm.
 
-[Top K Frequent Elements - LeetCode](#)
+[Top K Frequent Elements - LeetCode](https://leetcode.com/problems/top-k-frequent-elements/description/)
