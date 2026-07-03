@@ -1,3 +1,15 @@
 # More Exercises
 
 Below you can find other popular questions covering Arrays & Hashing. Work through these once you are comfortable with the five above.
+
+## Free Resources
+
+Product of Array Except Self
+
+Valid Sudoku
+
+Longest Consecutive Sequence
+
+Encode and Decode Strings
+
+Majority Element
