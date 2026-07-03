@@ -4,12 +4,12 @@ Below you can find other popular questions covering Arrays & Hashing. Work throu
 
 ## Free Resources
 
-Product of Array Except Self
+[Product of Array Except Self](#)
 
-Valid Sudoku
+[Valid Sudoku](#)
 
-Longest Consecutive Sequence
+[Longest Consecutive Sequence](#)
 
-Encode and Decode Strings
+[Encode and Decode Strings](#)
 
-Majority Element
+[Majority Element](#)
