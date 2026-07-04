@@ -8,7 +8,7 @@ Below you can find other popular questions covering Arrays & Hashing. Work throu
 
 [Valid Sudoku](#)  ....
 
-[Longest Consecutive Sequence](#)
+[Longest Consecutive Sequence](#)  ...
 
 [Encode and Decode Strings](#)
 
