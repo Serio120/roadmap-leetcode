@@ -8,7 +8,7 @@ Below you can find other popular questions covering Arrays & Hashing. Work throu
 
 [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/)
 
-[Longest Consecutive Sequence](#)  ...
+[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/)
 
 [Encode and Decode Strings](#)
 
