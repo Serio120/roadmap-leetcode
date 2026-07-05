@@ -6,7 +6,7 @@ Below you can find other popular questions covering Arrays & Hashing. Work throu
 
 [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/)
 
-[Valid Sudoku](#)  ....
+[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/)
 
 [Longest Consecutive Sequence](#)  ...
 
