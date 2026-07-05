@@ -10,6 +10,6 @@ Below you can find other popular questions covering Arrays & Hashing. Work throu
 
 [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/)
 
-[Encode and Decode Strings](#)
+[Encode and Decode Strings](#) ...
 
-[Majority Element](#)
+[Majority Element](#) ...
