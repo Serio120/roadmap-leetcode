@@ -7,3 +7,5 @@ Given a string, determine if it reads the same forward and backwards after remov
 [Valid Palindrome - LeetCode](https://leetcode.com/problems/valid-palindrome/description/)
 
 [Valid Palindrome - LeetCode 125 | Two Pointers](https://www.youtube.com/watch?v=pf5RT8Oi7rk)
+
+[LeetCode Valid Palindrome](https://www.youtube.com/watch?v=rYyn9Vc-dBQ)
