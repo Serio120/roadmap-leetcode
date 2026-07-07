@@ -10,4 +10,5 @@ Given a string, determine if it reads the same forward and backwards after remov
 
 [LeetCode Valid Palindrome](https://www.youtube.com/watch?v=rYyn9Vc-dBQ)
 
-![Diagrama del problema LeetCode 125](/Assets/Diagrama_LeetCode_125.png)
+## Diagram
+![Diagrama del problema LeetCode 125](../Assets/Diagrama_LeetCode_125.png)
