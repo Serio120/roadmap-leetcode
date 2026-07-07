@@ -5,4 +5,5 @@ Given a string, determine if it reads the same forward and backwards after remov
 ## Free Resources
 
 [Valid Palindrome - LeetCode](https://leetcode.com/problems/valid-palindrome/description/)
-(https://www.youtube.com/watch?v=pf5RT8Oi7rk)
+
+[Valid Palindrome - LeetCode 125 | Two Pointers](https://www.youtube.com/watch?v=pf5RT8Oi7rk)
