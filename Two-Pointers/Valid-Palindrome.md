@@ -4,11 +4,11 @@ Given a string, determine if it reads the same forward and backwards after remov
 
 ## Free Resources
 
-[Valid Palindrome - LeetCode](https://leetcode.com/problems/valid-palindrome/description/)
+**article**  [Valid Palindrome - LeetCode](https://leetcode.com/problems/valid-palindrome/description/)
 
-[Valid Palindrome - LeetCode 125 | Two Pointers](https://www.youtube.com/watch?v=pf5RT8Oi7rk)
+**video** [Valid Palindrome - LeetCode 125 | Two Pointers](https://www.youtube.com/watch?v=pf5RT8Oi7rk)
 
-[LeetCode Valid Palindrome](https://www.youtube.com/watch?v=rYyn9Vc-dBQ)
+**video** [LeetCode Valid Palindrome](https://www.youtube.com/watch?v=rYyn9Vc-dBQ)
 
 ## Diagram
 ![Diagrama del problema LeetCode 125](../Assets/Diagrama_LeetCode_125.png)
