@@ -9,4 +9,4 @@ Given an array of integers, find all unique triplets that sum to zero. You sort 
 **video** [3 Sum (LeetCode 15)](#)
 
 ## Diagram
-![Diagrama del problema LeetCode 125](../Assets/Diagrama_LeetCode_125.png)
+![Diagrama del problema LeetCode 125](../Assets/3Sum_esquema_leetcode_15.png)
