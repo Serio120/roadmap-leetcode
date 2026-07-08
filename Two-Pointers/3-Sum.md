@@ -4,9 +4,9 @@ Given an array of integers, find all unique triplets that sum to zero. You sort 
 ## Free Resources
 **article** [3Sum - LeetCode](https://leetcode.com/problems/3sum/description/)
 
-**video** [3Sum (Updated Solution)](#)
+**video** [3Sum (Updated Solution)](https://www.youtube.com/watch?v=TBePcj8DgxM)
 
-**video** [3 Sum (LeetCode 15)](#)
+**video** [3 Sum (LeetCode 15)](https://www.youtube.com/watch?v=cRBSOz49fQk&t=39s)
 
 ## Diagram
 ![Diagrama del problema LeetCode 125](../Assets/3Sum_esquema_leetcode_15.png)
